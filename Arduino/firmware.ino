@@ -18,8 +18,8 @@ int numberOfNetworks;
 unsigned long lastAusgabe;
 const unsigned long intervall = 5000;
 
-const char *ssid = "WLAN-LLHZN5";
-const char *password = "7553856492559707";
+const char *ssid = "YOUR-SSID";
+const char *password = "YOUR-PSK";
 
 
 
